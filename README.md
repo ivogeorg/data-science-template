@@ -53,6 +53,7 @@ After [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data
 
 ## References
 
-1. Building with _TBD_
-2. Testing with [tox](https://tox.readthedocs.io/en/latest/)
-3. Documentation with [Sphinx](http://sphinx-doc.org)
+1. [Python](https://stackoverflow.com/questions/448271/what-is-init-py-for) [packages](https://docs.python.org/3/tutorial/modules.html#packages).
+2. Building with _TBD_ (e.g. [Bazel](https://bazel.build), [Makefile](https://www.google.com/search?q=python+Makefile&oq=python+Makefile&aqs=chrome..69i57j69i61j69i60j69i65l2j69i60.3508j0j7&sourceid=chrome&ie=UTF-8)).
+3. Testing with [tox](https://tox.readthedocs.io/en/latest/).
+4. Documentation with [Sphinx](http://sphinx-doc.org).
