@@ -3,7 +3,7 @@
 ## Directory Structure
 ```text
 ├── LICENSE
-├── Makefile           <- Makefile with commands like `make data` or `make train` (or alt build file - see [References](#references) below)
+├── Makefile           <- Makefile with commands like `make data` or `make train` (or other build file)
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
