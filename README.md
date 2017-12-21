@@ -60,5 +60,6 @@ After [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data
     * [CMake](https://cmake.org/)
     * [Graddle](https://gradle.org/)
     * [SCons](http://www.scons.org/)
+    * [Maven](https://maven.apache.org/)
 3. Testing with [tox](https://tox.readthedocs.io/en/latest/).
 4. Documentation with [Sphinx](http://sphinx-doc.org).
