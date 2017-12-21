@@ -57,7 +57,7 @@ After [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data
 2. Versioning and source control with [git](https://git-scm.com/).
 3. Collaborative development on [Github](https://github.com).
 4. Building with:
-    * [Bazel](https://bazel.build) for TensorFlow projects
+    * [Bazel](https://bazel.build) for TensorFlow and multi-language projects
     * [Makefile](https://www.google.com/search?q=python+Makefile&oq=python+Makefile&aqs=chrome..69i57j69i61j69i60j69i65l2j69i60.3508j0j7&sourceid=chrome&ie=UTF-8) for C/C++ and even Python projects
     * [CMake](https://cmake.org/)
     * [Graddle](https://gradle.org/)
