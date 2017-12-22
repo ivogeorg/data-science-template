@@ -3,7 +3,7 @@
 ## Directory Structure
 ```text
 ├── LICENSE
-├── Makefile           <- Makefile with commands like `make data` or `make train` (or other build file)
+├── Makefile           <- Makefile with commands like `make data` or `make train` (see References on building)
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -27,7 +27,7 @@
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
-├── src                <- Source code for use in this project.
+├── src                <- Source code for use in this project (see Notes)
 │   ├── __init__.py    <- Makes src a Python module
 │   │
 │   ├── data           <- Scripts to download or generate data
@@ -50,6 +50,10 @@
 ## Acknowledgement
 
 After [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
+
+## Notes
+
+1. What would a multi-language project (say, TF, Python, Java, etc.) look like?
 
 ## References
 
